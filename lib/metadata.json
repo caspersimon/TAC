@@ -1,0 +1,979 @@
+{
+  "vaultName": "Youth Media",
+  "lastExport": 1734031233270,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager show-inline-title show-ribbon theme-light",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Youth Media/Book/Book.md",
+    "Youth Media/Book/Nascent ability to process info.md",
+    "Youth Media/Book/symbolic thinking.md",
+    "Youth Media/Definitions/Age ranges/Adolescence.md",
+    "Youth Media/Definitions/Age ranges/early adolescents.md",
+    "Youth Media/Definitions/Age ranges/Early childhood.md",
+    "Youth Media/Definitions/Age ranges/infants.md",
+    "Youth Media/Definitions/Age ranges/late adolescents.md",
+    "Youth Media/Definitions/Age ranges/middle childhood.md",
+    "Youth Media/Definitions/Age ranges/preschoolers.md",
+    "Youth Media/Definitions/Age ranges/toddlers.md",
+    "Youth Media/Definitions/Age ranges/tweens.md",
+    "Youth Media/Definitions/attachments/Pasted image 20241212184501.png",
+    "Youth Media/Definitions/theories/attachments/Pasted image 20241212162158.png",
+    "Youth Media/Definitions/theories/attachments/Pasted image 20241212162951.png",
+    "Youth Media/Definitions/theories/attachments/Pasted image 20241212163044.png",
+    "Youth Media/Definitions/theories/Capacity model (Fisch).md",
+    "Youth Media/Definitions/theories/DSMM.md",
+    "Youth Media/Definitions/theories/Hypodermic needle.md",
+    "Youth Media/Definitions/theories/Moderate discrepancy hypothesis.md",
+    "Youth Media/Definitions/theories/Self-Determination Theory.md",
+    "Youth Media/Definitions/theories/Social cognitive (learning) theory (Bandura).md",
+    "Youth Media/Definitions/theories/The Spinach Syndrome.md",
+    "Youth Media/Definitions/Academic educational media.md",
+    "Youth Media/Definitions/Cybersickness.md",
+    "Youth Media/Definitions/Development types.md",
+    "Youth Media/Definitions/Piaget.md",
+    "Youth Media/Definitions/Prosocial educational media.md",
+    "Youth Media/Definitions/Proteus effect.md",
+    "Youth Media/Definitions/scaffolding.md",
+    "Youth Media/Definitions/Usability.md",
+    "Youth Media/index/Sesame street.md",
+    "Youth Media/Week 1/Chapter 1.md",
+    "Youth Media/Week 1/Chapter 2 - Then and Now.md",
+    "Youth Media/Week 1/Chapter 3 - Themes and Theoretical Perspectives.md",
+    "Youth Media/Week 1/Lecture.md",
+    "Youth Media/Week 1/Reading Screen Time.md",
+    "Youth Media/Week 2/attachments/Pasted image 20241211214040.png",
+    "Youth Media/Week 2/attachments/Pasted image 20241211214823.png",
+    "Youth Media/Week 2/attachments/Pasted image 20241211214827.png",
+    "Youth Media/Week 2/attachments/Pasted image 20241211214916.png",
+    "Youth Media/Week 2/attachments/Pasted image 20241211215309.png",
+    "Youth Media/Week 2/Chapter 4 - Infants, Toddlers, Preschoolers.md",
+    "Youth Media/Week 2/Chapter 5 - Children.md",
+    "Youth Media/Week 2/Chapter 6.md",
+    "Youth Media/Week 2/Lecture.md",
+    "Youth Media/Week 2/Reading Media Use and Adolescent Brain Development.md",
+    "Youth Media/Week 3/attachments/Pasted image 20241212150856.png",
+    "Youth Media/Week 3/attachments/Pasted image 20241212151603.png",
+    "Youth Media/Week 3/attachments/Pasted image 20241212151608.png",
+    "Youth Media/Week 3/attachments/Pasted image 20241212184750.png",
+    "Youth Media/Week 3/attachments/Pasted image 20241212191748.png",
+    "Youth Media/Week 3/Chapter 11.md",
+    "Youth Media/Week 3/Cingel & Krcmar (2019) - Prosocial TV.md",
+    "Youth Media/Week 3/Di Natale et al. (2020) IVR K-12 systematic review.md",
+    "Youth Media/Week 3/Kucirkova (Nature, 2024)- Educational Apps.md",
+    "Youth Media/Week 3/Lecture.md",
+    "Youth Media/Week 3/Revelle (2013) Educational Games.md",
+    "Youth Media/An Overview.md",
+    "Youth Media/Practice questions.md",
+    "lib/media/pasted-image-20241212151603.png",
+    "lib/media/pasted-image-20241212151608.png",
+    "lib/media/pasted-image-20241212162158.png",
+    "lib/media/pasted-image-20241212163044.png",
+    "lib/media/pasted-image-20241212184501.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "fileInfo": {
+    "Youth Media/Book/Book.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 760381,
+      "exportedPath": "youth-media/book/book.html",
+      "dependencies": []
+    },
+    "Youth Media/Book/Nascent ability to process info.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 883,
+      "exportedPath": "youth-media/book/nascent-ability-to-process-info.html",
+      "dependencies": []
+    },
+    "Youth Media/Book/symbolic thinking.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 761,
+      "exportedPath": "youth-media/book/symbolic-thinking.html",
+      "dependencies": []
+    },
+    "Youth Media/Definitions/Age ranges/Adolescence.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 0,
+      "exportedPath": "youth-media/definitions/age-ranges/adolescence.html",
+      "dependencies": []
+    },
+    "Youth Media/Definitions/Age ranges/early adolescents.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 41,
+      "exportedPath": "youth-media/definitions/age-ranges/early-adolescents.html",
+      "dependencies": []
+    },
+    "Youth Media/Definitions/Age ranges/Early childhood.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 46,
+      "exportedPath": "youth-media/definitions/age-ranges/early-childhood.html",
+      "dependencies": []
+    },
+    "Youth Media/Definitions/Age ranges/infants.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 82,
+      "exportedPath": "youth-media/definitions/age-ranges/infants.html",
+      "dependencies": []
+    },
+    "Youth Media/Definitions/Age ranges/late adolescents.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 42,
+      "exportedPath": "youth-media/definitions/age-ranges/late-adolescents.html",
+      "dependencies": []
+    },
+    "Youth Media/Definitions/Age ranges/middle childhood.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 37,
+      "exportedPath": "youth-media/definitions/age-ranges/middle-childhood.html",
+      "dependencies": []
+    },
+    "Youth Media/Definitions/Age ranges/preschoolers.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 50,
+      "exportedPath": "youth-media/definitions/age-ranges/preschoolers.html",
+      "dependencies": []
+    },
+    "Youth Media/Definitions/Age ranges/toddlers.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 140,
+      "exportedPath": "youth-media/definitions/age-ranges/toddlers.html",
+      "dependencies": []
+    },
+    "Youth Media/Definitions/Age ranges/tweens.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 40,
+      "exportedPath": "youth-media/definitions/age-ranges/tweens.html",
+      "dependencies": []
+    },
+    "Youth Media/Definitions/attachments/Pasted image 20241212184501.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 196442,
+      "exportedPath": "youth-media/definitions/attachments/pasted-image-20241212184501.png",
+      "dependencies": []
+    },
+    "Youth Media/Definitions/theories/attachments/Pasted image 20241212162158.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 52289,
+      "exportedPath": "youth-media/definitions/theories/attachments/pasted-image-20241212162158.png",
+      "dependencies": []
+    },
+    "Youth Media/Definitions/theories/attachments/Pasted image 20241212162951.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 129596,
+      "exportedPath": "youth-media/definitions/theories/attachments/pasted-image-20241212162951.png",
+      "dependencies": []
+    },
+    "Youth Media/Definitions/theories/attachments/Pasted image 20241212163044.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 129596,
+      "exportedPath": "youth-media/definitions/theories/attachments/pasted-image-20241212163044.png",
+      "dependencies": []
+    },
+    "Youth Media/Definitions/theories/Capacity model (Fisch).md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 2070,
+      "exportedPath": "youth-media/definitions/theories/capacity-model-(fisch).html",
+      "dependencies": [
+        "lib/media/pasted-image-20241212151603.png",
+        "lib/media/pasted-image-20241212151608.png"
+      ]
+    },
+    "Youth Media/Definitions/theories/DSMM.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 1467,
+      "exportedPath": "youth-media/definitions/theories/dsmm.html",
+      "dependencies": []
+    },
+    "Youth Media/Definitions/theories/Hypodermic needle.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 454,
+      "exportedPath": "youth-media/definitions/theories/hypodermic-needle.html",
+      "dependencies": []
+    },
+    "Youth Media/Definitions/theories/Moderate discrepancy hypothesis.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 500,
+      "exportedPath": "youth-media/definitions/theories/moderate-discrepancy-hypothesis.html",
+      "dependencies": []
+    },
+    "Youth Media/Definitions/theories/Self-Determination Theory.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 1851,
+      "exportedPath": "youth-media/definitions/theories/self-determination-theory.html",
+      "dependencies": [
+        "youth-media/definitions/theories/attachments/pasted-image-20241212162158.png",
+        "youth-media/definitions/theories/attachments/pasted-image-20241212163044.png"
+      ]
+    },
+    "Youth Media/Definitions/theories/Social cognitive (learning) theory (Bandura).md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 617,
+      "exportedPath": "youth-media/definitions/theories/social-cognitive-(learning)-theory-(bandura).html",
+      "dependencies": []
+    },
+    "Youth Media/Definitions/theories/The Spinach Syndrome.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 3425,
+      "exportedPath": "youth-media/definitions/theories/the-spinach-syndrome.html",
+      "dependencies": []
+    },
+    "Youth Media/Definitions/Academic educational media.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 352,
+      "exportedPath": "youth-media/definitions/academic-educational-media.html",
+      "dependencies": []
+    },
+    "Youth Media/Definitions/Cybersickness.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 1568,
+      "exportedPath": "youth-media/definitions/cybersickness.html",
+      "dependencies": []
+    },
+    "Youth Media/Definitions/Development types.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 764,
+      "exportedPath": "youth-media/definitions/development-types.html",
+      "dependencies": []
+    },
+    "Youth Media/Definitions/Piaget.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 2317,
+      "exportedPath": "youth-media/definitions/piaget.html",
+      "dependencies": []
+    },
+    "Youth Media/Definitions/Prosocial educational media.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 391,
+      "exportedPath": "youth-media/definitions/prosocial-educational-media.html",
+      "dependencies": []
+    },
+    "Youth Media/Definitions/Proteus effect.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 433,
+      "exportedPath": "youth-media/definitions/proteus-effect.html",
+      "dependencies": []
+    },
+    "Youth Media/Definitions/scaffolding.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 409,
+      "exportedPath": "youth-media/definitions/scaffolding.html",
+      "dependencies": []
+    },
+    "Youth Media/Definitions/Usability.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 352,
+      "exportedPath": "youth-media/definitions/usability.html",
+      "dependencies": [
+        "youth-media/definitions/attachments/pasted-image-20241212184501.png"
+      ]
+    },
+    "Youth Media/index/Sesame street.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 152,
+      "exportedPath": "youth-media/index/sesame-street.html",
+      "dependencies": []
+    },
+    "Youth Media/Week 1/Chapter 1.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 2111,
+      "exportedPath": "youth-media/week-1/chapter-1.html",
+      "dependencies": []
+    },
+    "Youth Media/Week 1/Chapter 2 - Then and Now.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 5122,
+      "exportedPath": "youth-media/week-1/chapter-2-then-and-now.html",
+      "dependencies": []
+    },
+    "Youth Media/Week 1/Chapter 3 - Themes and Theoretical Perspectives.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 2675,
+      "exportedPath": "youth-media/week-1/chapter-3-themes-and-theoretical-perspectives.html",
+      "dependencies": []
+    },
+    "Youth Media/Week 1/Lecture.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 1019,
+      "exportedPath": "youth-media/week-1/lecture.html",
+      "dependencies": []
+    },
+    "Youth Media/Week 1/Reading Screen Time.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 1060,
+      "exportedPath": "youth-media/week-1/reading-screen-time.html",
+      "dependencies": []
+    },
+    "Youth Media/Week 2/attachments/Pasted image 20241211214040.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 400064,
+      "exportedPath": "youth-media/week-2/attachments/pasted-image-20241211214040.png",
+      "dependencies": []
+    },
+    "Youth Media/Week 2/attachments/Pasted image 20241211214823.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 533983,
+      "exportedPath": "youth-media/week-2/attachments/pasted-image-20241211214823.png",
+      "dependencies": []
+    },
+    "Youth Media/Week 2/attachments/Pasted image 20241211214827.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 533983,
+      "exportedPath": "youth-media/week-2/attachments/pasted-image-20241211214827.png",
+      "dependencies": []
+    },
+    "Youth Media/Week 2/attachments/Pasted image 20241211214916.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 701894,
+      "exportedPath": "youth-media/week-2/attachments/pasted-image-20241211214916.png",
+      "dependencies": []
+    },
+    "Youth Media/Week 2/attachments/Pasted image 20241211215309.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 291356,
+      "exportedPath": "youth-media/week-2/attachments/pasted-image-20241211215309.png",
+      "dependencies": []
+    },
+    "Youth Media/Week 2/Chapter 4 - Infants, Toddlers, Preschoolers.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 12405,
+      "exportedPath": "youth-media/week-2/chapter-4-infants,-toddlers,-preschoolers.html",
+      "dependencies": []
+    },
+    "Youth Media/Week 2/Chapter 5 - Children.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 9542,
+      "exportedPath": "youth-media/week-2/chapter-5-children.html",
+      "dependencies": []
+    },
+    "Youth Media/Week 2/Chapter 6.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 5703,
+      "exportedPath": "youth-media/week-2/chapter-6.html",
+      "dependencies": []
+    },
+    "Youth Media/Week 2/Lecture.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 5724,
+      "exportedPath": "youth-media/week-2/lecture.html",
+      "dependencies": [
+        "youth-media/week-2/attachments/pasted-image-20241211215309.png",
+        "youth-media/week-2/attachments/pasted-image-20241211214916.png",
+        "youth-media/week-2/attachments/pasted-image-20241211214827.png",
+        "youth-media/week-2/attachments/pasted-image-20241211214040.png"
+      ]
+    },
+    "Youth Media/Week 2/Reading Media Use and Adolescent Brain Development.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 33,
+      "exportedPath": "youth-media/week-2/reading-media-use-and-adolescent-brain-development.html",
+      "dependencies": []
+    },
+    "Youth Media/Week 3/attachments/Pasted image 20241212150856.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 652117,
+      "exportedPath": "youth-media/week-3/attachments/pasted-image-20241212150856.png",
+      "dependencies": []
+    },
+    "Youth Media/Week 3/attachments/Pasted image 20241212151603.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 147090,
+      "exportedPath": "youth-media/week-3/attachments/pasted-image-20241212151603.png",
+      "dependencies": []
+    },
+    "Youth Media/Week 3/attachments/Pasted image 20241212151608.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 117387,
+      "exportedPath": "youth-media/week-3/attachments/pasted-image-20241212151608.png",
+      "dependencies": []
+    },
+    "Youth Media/Week 3/attachments/Pasted image 20241212184750.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 252937,
+      "exportedPath": "youth-media/week-3/attachments/pasted-image-20241212184750.png",
+      "dependencies": []
+    },
+    "Youth Media/Week 3/attachments/Pasted image 20241212191748.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 54090,
+      "exportedPath": "youth-media/week-3/attachments/pasted-image-20241212191748.png",
+      "dependencies": []
+    },
+    "Youth Media/Week 3/Chapter 11.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 4809,
+      "exportedPath": "youth-media/week-3/chapter-11.html",
+      "dependencies": []
+    },
+    "Youth Media/Week 3/Cingel & Krcmar (2019) - Prosocial TV.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 329,
+      "exportedPath": "youth-media/week-3/cingel-&-krcmar-(2019)-prosocial-tv.html",
+      "dependencies": []
+    },
+    "Youth Media/Week 3/Di Natale et al. (2020) IVR K-12 systematic review.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 622,
+      "exportedPath": "youth-media/week-3/di-natale-et-al.-(2020)-ivr-k-12-systematic-review.html",
+      "dependencies": []
+    },
+    "Youth Media/Week 3/Kucirkova (Nature, 2024)- Educational Apps.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 1616,
+      "exportedPath": "youth-media/week-3/kucirkova-(nature,-2024)-educational-apps.html",
+      "dependencies": []
+    },
+    "Youth Media/Week 3/Lecture.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 7878,
+      "exportedPath": "youth-media/week-3/lecture.html",
+      "dependencies": [
+        "youth-media/week-3/attachments/pasted-image-20241212150856.png",
+        "youth-media/week-3/attachments/pasted-image-20241212151603.png",
+        "youth-media/week-3/attachments/pasted-image-20241212151608.png",
+        "lib/media/pasted-image-20241212162158.png",
+        "lib/media/pasted-image-20241212163044.png",
+        "lib/media/pasted-image-20241212184501.png",
+        "youth-media/week-3/attachments/pasted-image-20241212184750.png",
+        "youth-media/week-3/attachments/pasted-image-20241212191748.png"
+      ]
+    },
+    "Youth Media/Week 3/Revelle (2013) Educational Games.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 33,
+      "exportedPath": "youth-media/week-3/revelle-(2013)-educational-games.html",
+      "dependencies": []
+    },
+    "Youth Media/An Overview.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 654,
+      "exportedPath": "youth-media/an-overview.html",
+      "dependencies": []
+    },
+    "Youth Media/Practice questions.md": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 1885,
+      "exportedPath": "youth-media/practice-questions.html",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241212151603.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 147090,
+      "exportedPath": "lib/media/pasted-image-20241212151603.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241212151608.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 117387,
+      "exportedPath": "lib/media/pasted-image-20241212151608.png",
+      "dependencies": []
+    },
+    "youth-media/definitions/theories/attachments/pasted-image-20241212162158.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 52289,
+      "exportedPath": "youth-media/definitions/theories/attachments/pasted-image-20241212162158.png",
+      "dependencies": []
+    },
+    "youth-media/definitions/theories/attachments/pasted-image-20241212163044.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 129596,
+      "exportedPath": "youth-media/definitions/theories/attachments/pasted-image-20241212163044.png",
+      "dependencies": []
+    },
+    "youth-media/definitions/attachments/pasted-image-20241212184501.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 196442,
+      "exportedPath": "youth-media/definitions/attachments/pasted-image-20241212184501.png",
+      "dependencies": []
+    },
+    "youth-media/week-2/attachments/pasted-image-20241211215309.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 291356,
+      "exportedPath": "youth-media/week-2/attachments/pasted-image-20241211215309.png",
+      "dependencies": []
+    },
+    "youth-media/week-2/attachments/pasted-image-20241211214916.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 701894,
+      "exportedPath": "youth-media/week-2/attachments/pasted-image-20241211214916.png",
+      "dependencies": []
+    },
+    "youth-media/week-2/attachments/pasted-image-20241211214827.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 533983,
+      "exportedPath": "youth-media/week-2/attachments/pasted-image-20241211214827.png",
+      "dependencies": []
+    },
+    "youth-media/week-2/attachments/pasted-image-20241211214040.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 400064,
+      "exportedPath": "youth-media/week-2/attachments/pasted-image-20241211214040.png",
+      "dependencies": []
+    },
+    "youth-media/week-3/attachments/pasted-image-20241212150856.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 652117,
+      "exportedPath": "youth-media/week-3/attachments/pasted-image-20241212150856.png",
+      "dependencies": []
+    },
+    "youth-media/week-3/attachments/pasted-image-20241212151603.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 147090,
+      "exportedPath": "youth-media/week-3/attachments/pasted-image-20241212151603.png",
+      "dependencies": []
+    },
+    "youth-media/week-3/attachments/pasted-image-20241212151608.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 117387,
+      "exportedPath": "youth-media/week-3/attachments/pasted-image-20241212151608.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241212162158.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 52289,
+      "exportedPath": "lib/media/pasted-image-20241212162158.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241212163044.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 129596,
+      "exportedPath": "lib/media/pasted-image-20241212163044.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241212184501.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 196442,
+      "exportedPath": "lib/media/pasted-image-20241212184501.png",
+      "dependencies": []
+    },
+    "youth-media/week-3/attachments/pasted-image-20241212184750.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 252937,
+      "exportedPath": "youth-media/week-3/attachments/pasted-image-20241212184750.png",
+      "dependencies": []
+    },
+    "youth-media/week-3/attachments/pasted-image-20241212191748.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 54090,
+      "exportedPath": "youth-media/week-3/attachments/pasted-image-20241212191748.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 60541,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 4933,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 131118,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 253,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 194,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1734031233270,
+      "sourceSize": 114,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    }
+  }
+}
